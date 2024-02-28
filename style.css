@@ -1,0 +1,77 @@
+ *{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ nav{
+    background-image: url(./images/page-heading-bg.jpg);
+}
+
+.showcase {
+    height: 70vh;
+    background-image: url(./images/banner-bg.jpg);
+    border-bottom-left-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+}
+
+.fs-1{
+ font-family: "Rubik", sans-serif;
+ font-optical-sizing: auto;
+font-weight: 400;
+}
+
+.line{
+    margin-left: 7rem;
+    width: 29%;
+}
+.fs-6{
+ font-family: "Tajawal", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.heading {
+    margin-left: 20rem !important;
+}
+
+
+.search-btn {
+    top: 43.5%;
+}
+.pre-order{
+    margin-top: 20rem;
+    margin-bottom: 20rem;
+
+}
+
+.Subscribe-btn {
+    top: 67%;
+
+}
+.card-1{
+    top: 125%;
+    
+}
+
+.card-2{
+    top: 170%;
+    
+}
+
+.trending-games{
+    margin-bottom: 5rem;
+}
+.plans .plans-heading .lists ul li {
+    list-style-image: url(./images/checker.png);
+}
+.plans .plans-heading{
+    margin: 3rem;
+}
+.plans-cards{
+    margin: 3rem;
+} 
+.dis {
+    margin-top: 7rem;
+}
+footer{
+    background-image: url(./images/footer-bg.jpg);
+}
